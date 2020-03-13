@@ -1,3 +1,10 @@
+- name: Crowdcare Corp dba Wysdom.AI
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
 - name: Go Moment
   wfh: Encouraged
   travel: Restricted
@@ -2188,13 +2195,6 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
-
-- name: Trim
-  wfh: Encouraged
-  travel: N/A
-  visitors: N/A
-  events: N/A
-  last_update: 2020-03-13
 
 - name: Tripadvisor
   wfh: Encouraged
